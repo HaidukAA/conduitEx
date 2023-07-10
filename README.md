@@ -1,5 +1,8 @@
 # ConduitEx
 
+![image](https://github.com/HaidukAA/conduitEx/assets/108396767/e7f0530f-3e7b-440c-9984-f4790b3f86b8)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.3.
 
 ## Development server
